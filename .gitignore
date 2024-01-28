@@ -1,0 +1,9 @@
+# Arquivos temporários
+*.tmp
+
+# Diretórios
+node_modules/
+build/
+dist/
+djangovenv/
+dist/
